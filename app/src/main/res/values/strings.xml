@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BottomSheetDialog</string>
+    <string name="share_now">Share Now</string>
+    <string name="android_application_developer">Android Application Developer</string>
+    <string name="android_app_developers">Android App Developers</string>
+    <string name="java_kotlin">Java | Kotlin</string>
+    <string name="add_to_favorites">Add to Favorites</string>
+    <string name="share_with_friends">Share with Friends</string>
+    <string name="developers">Developers</string>
+    <string name="share">Share</string>
+    <string name="show_bottom_sheet_dialog">Show Bottom Sheet Dialog</string>
+    <string name="rating">Rating:</string>
+</resources>
